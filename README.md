@@ -1,6 +1,6 @@
 # A Basic Template Developer Portfolio
 
-A Basic Template Developer Portfolio. It's on display at: https://cbarnett427.github.io/Horizon-Portfolio/
+A Basic Template Developer Portfolio
 
 ## Created using
 - HTML5

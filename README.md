@@ -10,10 +10,11 @@
 
 ## Features :tada:
 :star: One Page Layout\
-:star: Styled with Vanilla CSS\
 :star: Responsive Layout\
 :star: Valid HTML5 & CSS3\
-:star: Organized documentation
+:star: Light & Dark Modes\
+:star: Organized documentation\
+:star: Styled with Vanilla CSS
 
 ## Advantages :loudspeaker:
 :dart: Professional way to showcase your work\

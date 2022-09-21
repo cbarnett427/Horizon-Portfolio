@@ -2,7 +2,7 @@
 <h1>Horizon Portfolio</h1>
 <i>A developer portfolio template with a minimal design, that works with GitHub Pages.</i>
 <h2 align="center">
-  <img src="https://github.com/cbarnett427/Horizon-Portfolio/blob/main/img/HorizonExample.png" alt="Horizon Portfolio"/>
+  <img src="https://github.com/cbarnett427/Horizon-Portfolio/blob/main/img/HorizonExample1.png" alt="Horizon Portfolio"/>
   <sub><sup>© 2022 Horizon Portfolio - Licensed under the <a href="./LICENSE">MIT License</a>.</sup></sub>
   <br>
 </h2>
